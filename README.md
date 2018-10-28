@@ -2,5 +2,6 @@
 
 ## Group: Oliver Scholz Lønning, Stefan Schou Eliasen, Elias Zinabidine Laghouila og Mathias Bertels Jensenius
 
-## Clone repo
-## Open with visualstudio
+## How to 
+Clone repo
+Open with visualstudio
