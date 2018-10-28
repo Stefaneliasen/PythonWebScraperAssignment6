@@ -7,4 +7,4 @@ Clone repo
 Open with visualstudio
 
 
-![alt text](https://github.com/Stefaneliasen/PythonWebScraperAssignment6/blob/master/webscraperplot.png)
+![alt text](https://gyazo.com/9df85789126b503a3c5cada081b151fb)
